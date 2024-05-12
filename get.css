@@ -1,0 +1,92 @@
+ .get{
+    background: linear-gradient(300deg, #e7b0db, #a686e0, #f9b9b9);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    list-style: none;
+   
+}
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+
+  
+  .icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+  }
+  /**/
+  .rounded-lg-3 {
+    border-radius: 0.75rem; /* adjust this value as needed */
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.gogo{
+  h2{
+    color: #746e7a;
+    font-weight: bolder;
+    text-align: justify;
+    font-family: sans-serif;
+  }
+}
+.col-lg-4 {
+  text-align: center; /* Align content in the center */
+}
+
+.btn-secondary {
+  background-color: #7ba7f9; /* Change button background color */
+  color: white; /* Change button text color */
+  border-color: #bec7ce; /* Change button border color */
+}
+.cat{
+  h4{
+    color: #746e7a;
+    font-weight: bolder;
+    text-align: justify;
+    font-family: sans-serif;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 3rem;
+    margin-bottom: 70px;
+  }
+}
+.btn-primary {
+  background-color: #7896d4; /* Change the background color of primary button */
+  border-color: #858aac; /* Change the border color of primary button */
+}
+
+.btn-primary:hover {
+  background-color: #8a94ed; /* Change the background color of primary button on hover */
+  border-color: #384797; /* Change the border color of primary button on hover */
+}
+
+.btn-outline-secondary {
+  background-color: #bacef0; /* Change the background color of secondary button */
+  border-color: #4790d0; /* Change the border color of secondary button */
+  color: #fff; /* Change the text color of secondary button */
+}
+
+.btn-outline-secondary:hover {
+  background-color: #6ba4dc; /* Change the background color of secondary button on hover */
+  border-color: #dbeaf8; /* Change the border color of secondary button on hover */
+}
+.custom-button {
+ 
+  background-color: rgb(245, 195, 195);
+}
+.tom-button {
+ 
+  background-color: white;
+}
