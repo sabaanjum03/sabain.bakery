@@ -1,3 +1,6 @@
+![bakery top page](https://github.com/sabaanjum03/sabain.bakery/blob/main/Screenshot%202024-05-13%20133644.png)
+![Bakery Mid page](https://github.com/sabaanjum03/sabain.bakery/blob/main/Screenshot%202024-05-13%20133712.png)
+![BAKERY bottom PAGE](https://raw.githubusercontent.com/sabaanjum03/sabain.bakery/main/Screenshot%202024-05-13%20133742.png)
 
 <h1>Bakery Website</h1>
 
@@ -32,10 +35,6 @@
 <li>Place orders using the order form.</li>
 <li>Contact us using the contact form.</li>
 </ol>
-<h2>Screenshots</h2>
-![bakery top page](https://github.com/sabaanjum03/sabain.bakery/blob/main/Screenshot%202024-05-13%20133644.png)
-![Bakery Mid page](https://github.com/sabaanjum03/sabain.bakery/blob/main/Screenshot%202024-05-13%20133712.png)
-![BAKERY bottom PAGE](https://raw.githubusercontent.com/sabaanjum03/sabain.bakery/main/Screenshot%202024-05-13%20133742.png)
 
 <h2>Contributing</h2>
 <h4>Contributions are welcome! Please follow these steps:</h4>
