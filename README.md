@@ -1,4 +1,6 @@
 
+![BAKERY PAGE](https://raw.githubusercontent.com/sabaanjum03/sabain.bakery/main/Screenshot%202024-05-13%20133742.png)
+
 <h1>Bakery Website</h1>
 
 <h2>Description</h2>
